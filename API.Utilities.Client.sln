@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "API.Utilities.Client", "src\API.Utilities.Client.csproj", "{AAAAA457-BF35-473E-A0AB-F92C1D371D51}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "API.Utilities.Client.Test.Integration", "test\integration\API.Utilities.Client.Test.Integration.csproj", "{03F42259-075F-4CBD-91A6-CC6DDB2FE26B}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{72EC6FA9-0DEE-4AEB-8549-DC272DFDD382}"
+	ProjectSection(SolutionItems) = preProject
+		.gitignore = .gitignore
+		.gitlab-ci.yml = .gitlab-ci.yml
+		CHANGELOG = CHANGELOG
+		CONTRIBUTING.md = CONTRIBUTING.md
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AAAAA457-BF35-473E-A0AB-F92C1D371D51}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AAAAA457-BF35-473E-A0AB-F92C1D371D51}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AAAAA457-BF35-473E-A0AB-F92C1D371D51}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AAAAA457-BF35-473E-A0AB-F92C1D371D51}.Release|Any CPU.Build.0 = Release|Any CPU
+		{03F42259-075F-4CBD-91A6-CC6DDB2FE26B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{03F42259-075F-4CBD-91A6-CC6DDB2FE26B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{03F42259-075F-4CBD-91A6-CC6DDB2FE26B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{03F42259-075F-4CBD-91A6-CC6DDB2FE26B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
