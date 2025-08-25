@@ -2,7 +2,7 @@ using CommandLine;
 using Gay.Silverbranch.Api.Utilities.Common.CommandLine;
 using Gay.Silverbranch.Api.Utilities.Common.CommandLine.Interface;
 
-namespace Gay.Silverbranch.API.Utilities.Forontend.CommandLine;
+namespace Gay.Silverbranch.Api.Utilities.Client.CommandLine;
 
 public class RoutingFrontendCmdOptions : RoutingCmdOptions, IHealthCheckCmdOptions
 {
