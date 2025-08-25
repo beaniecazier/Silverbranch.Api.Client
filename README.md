@@ -1,7 +1,7 @@
 ![Silverbranch Codeworks Banner](https://gitlab.com/silverbranch-utilities/assets/-/raw/trunk/banner-pride.png)
 
 # 📦 Silverbranch Codeworks API Frontend Base Utilities
-![GitHub License](https://img.shields.io/github/license/beaniecazier/SSilverbranch.Api.Base)
+![GitHub License](https://img.shields.io/github/license/beaniecazier/Silverbranch.Api.Client)
 
 General baseline API code and tools
 
