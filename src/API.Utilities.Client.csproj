@@ -16,7 +16,7 @@
         <Authors>Tiabeanie Cazier</Authors>
         <Product>API Frontend Base Utilities</Product>
         <Title>$(Company) $(Product)</Title>
-        <AssemblyName>API.Utilities.Forontend</AssemblyName>
+        <AssemblyName>Api.Utilities.Client</AssemblyName>
         <RootNamespace>Gay.Silverbranch.$(AssemblyName)</RootNamespace>
         <PackageId>Gay.Silverbranch.pkg.$(AssemblyName)</PackageId>
         <PackageProjectUrl>silverbranch-codeworks.com</PackageProjectUrl>
